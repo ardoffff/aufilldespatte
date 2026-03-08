@@ -38,7 +38,7 @@ export function Home() {
               Voir les animaux disponibles
             </Link>
             <a 
-              href="https://wa.me/1234567890"
+              href="https://wa.me/33602822103"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center h-14 px-8 bg-transparent border-2 border-white hover:bg-white text-white hover:text-green text-lg font-bold rounded-full transition-all hover:shadow-xl hover:-translate-y-1 backdrop-blur-sm"

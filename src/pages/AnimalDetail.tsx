@@ -21,7 +21,7 @@ export function AnimalDetail() {
     if (navigator.share) {
       navigator.share({
         title: `Adoptez ${animal?.name}`,
-        text: `Découvrez ${animal?.name} sur Chiot et Chatons à Donner !`,
+        text: `Découvrez ${animal?.name} sur Au fil des pattes !`,
         url: window.location.href,
       });
     } else {
@@ -167,7 +167,7 @@ export function AnimalDetail() {
 
             {/* Main CTA */}
             <a 
-              href={`https://wa.me/1234567890?text=Bonjour, je suis intéressé(e) par l'adoption de ${animal.name}.`}
+              href={`https://wa.me/33602822103?text=Bonjour, je suis intéressé(e) par l'adoption de ${animal.name}.`}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold text-xl py-5 rounded-2xl shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 mb-4 group"

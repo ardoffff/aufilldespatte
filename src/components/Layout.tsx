@@ -16,7 +16,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <div className="w-10 h-10 bg-green/10 rounded-full flex items-center justify-center text-green">
                 <PawPrint size={24} />
               </div>
-              <span className="text-xl font-extrabold tracking-tight">Chiot et Chatons</span>
+              <span className="text-xl font-extrabold tracking-tight">Au fil des pattes</span>
             </Link>
 
             {/* Desktop Menu */}
@@ -87,7 +87,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 <div className="w-8 h-8 bg-green rounded-full flex items-center justify-center text-white">
                   <PawPrint size={18} />
                 </div>
-                <span className="text-lg font-extrabold tracking-tight">Chiot et Chatons</span>
+                <span className="text-lg font-extrabold tracking-tight">Au fil des pattes</span>
               </div>
               <p className="text-gray-500 text-sm leading-relaxed mb-4">
                 Une plateforme dédiée à connecter des animaux aimants avec des familles responsables. Adoptez, ne m'achetez pas.
@@ -127,7 +127,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           </div>
           
           <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-            <p>© 2024 Chiot et Chatons à Donner. Tous droits réservés.</p>
+            <p>© 2024 Au fil des pattes. Tous droits réservés.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <Link to="/confidentialite" className="hover:text-green">Politique de confidentialité</Link>
               <Link to="/cookies" className="hover:text-green">Cookies</Link>
@@ -138,7 +138,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
       {/* Floating WhatsApp Button */}
       <a 
-        href="https://wa.me/1234567890" 
+        href="https://wa.me/33602822103" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 group flex items-center gap-2"

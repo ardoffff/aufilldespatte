@@ -24,7 +24,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500 font-bold uppercase">Téléphone</p>
-                    <p className="text-dark font-medium text-lg">+33 1 23 45 67 89</p>
+                    <p className="text-dark font-medium text-lg">+33 6 02 82 21 03</p>
                   </div>
                 </div>
                 
@@ -34,7 +34,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500 font-bold uppercase">Email</p>
-                    <p className="text-dark font-medium text-lg">contact@chiotetchatons.fr</p>
+                    <p className="text-dark font-medium text-lg">contact@aufildespattes.fr</p>
                   </div>
                 </div>
                 
@@ -51,7 +51,7 @@ export function Contact() {
             </div>
 
             <a 
-              href="https://wa.me/1234567890"
+              href="https://wa.me/33602822103"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold text-xl py-6 rounded-3xl shadow-lg shadow-green-500/30 transition-all hover:-translate-y-1 group"
